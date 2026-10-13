@@ -184,7 +184,4 @@ csillagjegy		kötelező, csak 'kos','bika','ikrek','rák','oroszlán','szűz','m
 heti_joslat 		kötelező, minimum 100 karakter legyen
 A validálás során értelemszerűen magyarítsa le a validálási üzeneteket, pl.: Kötelező megadni!, Számot adjon meg!, stb.
 
-Készítse el hozzá a welcome.blade.php-ben az API dokumentációt!!
-
-
 
